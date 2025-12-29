@@ -1,0 +1,24 @@
+# Requirements for this project (Node/Vite)
+
+This is a Node.js project. Use `npm install` to install dependencies listed in `package.json`.
+
+Dependencies (from package.json):
+- react@^18.2.0
+- react-dom@^18.2.0
+
+DevDependencies:
+- @vitejs/plugin-react@^4.3.1
+- vite@^5.4.8
+
+Quick install (PowerShell):
+```powershell
+cd "f:\\home page"
+npm install
+```
+
+Start dev server:
+```powershell
+npm run dev
+```
+
+If you intended a Python `requirements.txt`, tell me and I'll generate one.
